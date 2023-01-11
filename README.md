@@ -1,5 +1,4 @@
-# (Ford GoBike Data Exploration )
-## by (Lamia Alshoaibi)
+# Ford GoBike Data Exploration 
 
 
 ## Dataset
